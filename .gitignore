@@ -1,0 +1,6 @@
+.env
+.babelrc
+firebase-config.js
+serviceAccountKey.json
+mailconfig.json
+node_modules/

@@ -1,0 +1,32 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+.ultralight {
+  font-family: 'Roboto', sans-serif;
+  font-weight:100;
+} /* 300 is industry standard for normal */
+
+.light {
+  font-family: 'Roboto', sans-serif;
+  font-weight:300;
+} /* 300 is industry standard for normal */
+
+.medium {
+  font-family: 'Roboto', sans-serif;
+  font-weight:500;
+} /* 500 is industry standard for normal */
+
+.bold {
+  font-family: 'Roboto', sans-serif;
+  font-weight:700;
+} /* 500 is industry standard for normal */
+
+.heavy {
+  font-family: 'Roboto', sans-serif;
+  font-weight:900;
+} /* 500 is industry standard for normal */
